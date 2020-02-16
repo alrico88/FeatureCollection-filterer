@@ -1,6 +1,6 @@
 {
   "name": "featurecollection-filterer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to filter features inside GeoJSON FeatureCollection by conditions",
   "main": "index.js",
   "repository": "https://github.com/alrico88/FeatureCollection-filterer",
